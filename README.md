@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @skuldier1947
-- 👀 I’m interested in ... learning to code.
+- 👀 I’m interested in frontend Development.
 - 🌱 I’m currently learning ... linux terminal line commands.
 - 💞️ I’m looking to collaborate on ...coding logics.
 - 📫 How to reach me ...
