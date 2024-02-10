@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @skuldier1947
+- 👋 Hi/Namaste/Salam, I’m Sunil
 - 👀 I’m interested in frontend Development.
 - 🌱 I’m currently learning ... linux terminal line commands.
 - 💞️ I’m looking to collaborate on ...coding logics.
